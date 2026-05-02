@@ -21,14 +21,6 @@
 * **🤝 Core Team** – Google Developer Groups (GDG) UVCE
 * **🤝 Core Team** – Co-Lead at Avinya (VidyaChetana by YFS)
 
----
-
-### 🐍 My Contribution Journey
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kishan0507/Kishan0507/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kishan0507/Kishan0507/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kishan0507/Kishan0507/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
