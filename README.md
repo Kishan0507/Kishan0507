@@ -60,9 +60,6 @@
   <i>"Playing chess by day, writing code and poetry by night."</i>
 </p>
 </a>
-<a href="mailto:257kishan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
 </p>
 
 ---
