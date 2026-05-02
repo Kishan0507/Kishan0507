@@ -64,7 +64,4 @@
 
 ---
 
-<p align="center">
-  <i>"Playing chess by day, writing code and poetry by night."</i>
-</p>
 
