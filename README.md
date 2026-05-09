@@ -30,7 +30,6 @@
 - Advanced Backend Architectures
 - Operating Systems Internals
 - Computer Networks
-- Computer Vision
 - Low-Level Systems Programming
 
 ---
@@ -64,7 +63,7 @@
 
 <div align="center">
 
-<a href="https://myportfoilo-9pa0.onrender.com" target="_blank">
+<a href="https://myportfolio-9pa0.onrender.com" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
