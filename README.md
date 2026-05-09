@@ -1,7 +1,7 @@
 # Hi there! I'm Kishan 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=ISE+Student+at+UVCE;Full+Stack+Developer;Systems+Programming+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=ISE+Student+at+UVCE;Full+Stack+Developer;Systems+Programming+Enthusiast;" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,7 +10,7 @@
 
 🎓 I’m an Information Science & Engineering student at **UVCE**  
 💻 Passionate about **Full Stack Development**, **Systems Programming**, and **Backend Engineering**  
-🧠 Currently exploring **Operating Systems**, **Computer Networks**, **Computer Vision**, and scalable backend architectures  
+🧠 Currently exploring **Operating Systems**, **Computer Networks**, and scalable backend architectures  
 ♟️ I enjoy playing chess, building projects, and writing poetry
 
 ---
