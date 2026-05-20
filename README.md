@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=ISE+Student+at+UVCE;Full+Stack+Developer;Systems+Programming+Enthusiast;" alt="Typing SVG" />
 </div>
 
----
-
 ## 🚀 About Me
 
 🎓 I’m an Information Science & Engineering student at **UVCE**  
@@ -13,17 +11,14 @@
 🧠 Currently exploring **Operating Systems**, **Computer Networks**, and scalable backend architectures  
 ♟️ I enjoy playing chess, building projects, and writing poetry
 
----
-
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,django,react,vite,tailwind,nodejs,express,postgres,mysql,git,github,figma,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,django,react,vite,tailwind,djangorestframework,postgres,mysql,git,github,figma,linux,vscode&theme=dark" />
 
 </div>
 
----
 
 ## 🌱 Currently Learning
 
@@ -32,14 +27,12 @@
 - Computer Networks
 - Low-Level Systems Programming
 
----
 
 ## 🏆 Leadership & Community
 
 - 🤝 **Core Team Member** — Google Developer Groups (GDG) UVCE
 - 🤝 **Co-Lead at Avinya** — VidyaChetana by YFS
 
----
 
 ## 📊 GitHub Activity
 
@@ -57,8 +50,6 @@
 
 </div>
 
----
-
 ## 🌐 Portfolio Website
 
 <div align="center">
@@ -68,8 +59,6 @@
 </a>
 
 </div>
-
----
 
 ## 📫 Connect With Me
 
@@ -85,8 +74,6 @@
 
 </div>
 
----
-
 ## ⚡ Fun Fact
 
 <div align="center">
@@ -94,8 +81,6 @@
 *"Playing chess by day, writing code and poetry by night."*
 
 </div>
-
----
 
 <div align="center">
 
